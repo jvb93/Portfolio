@@ -1,4 +1,9 @@
 # Portfolio
+
+## Selected Works
+
+### Software
 [Spotify Experience](./Projects/SpotifyExperience.md)
 
-[[toc]]
+### Makes
+[Raspberry64](./Projects/Raspberry64.md)
