@@ -18,7 +18,7 @@ I go into much greater detail regarding my skills and experience on
 
 ### Software
 * [Spotify Experience](./Projects/SpotifyExperience.md)
-* [Beautiful Stocks](./Projects/SpotifyExperience.md)
+* [Beautiful Stocks](./Projects/BeautifulStocks.md)
 
 ### Makes
 * [Arduino Media Controller](./Projects/ArduinoMediaController.md)
