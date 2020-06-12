@@ -21,4 +21,11 @@ I decided I wanted to write this OOP, which, isn't *super* common in the Arduino
 
 After I'd gotten the human interface portions prototyped out, I needed some case or something to hold everything together on my desk. I love an excuse to fire up the 3D printer, so I threw a design together really quick and got to printing. 
 
-As of this writing, this is where we remain until my knockoff Arduino arrives and I can assemble everything
+Late in the build I realized my 3D printer was actually out of service. I opted to build the case out of plywood instead. My woodworking skills are awful, but I am pretty happy with how it turned out... Especially considering I didn't measure anything. The whole thing stands about 4" tall.
+
+![Final Product](./img/ArduinoMediaControl_FinalFront.jpg)
+*Final product*
+
+![Rear](./img/ArduinoMediaControl_Rear.jpg)
+*The rear leaves something to be desired*
+
