@@ -31,6 +31,10 @@ The frontend is a vue.js web application which displays data from the API in a m
 
 ![inside of sender device](./img/OverComplicatedWeatherStation_inside.jpg)
 
+#### The Bridge, sharpie for scale
+
+![the bridge](./img/OverComplicatedWeatherStation_bridge.jpg)
+
 ### Software
 
 #### Frontend
