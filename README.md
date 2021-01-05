@@ -26,3 +26,4 @@ I go into much greater detail regarding my skills and experience on
 - [Overcomplicated Weather Station](./Projects/OvercomplicatedWeatherStation.md)
 - [Arduino Media Controller](./Projects/ArduinoMediaController.md)
 - [Super COVID Mask Adapter](./Projects/SuperCovidMaskAdapter.md)
+- [3D Printed Invisalign Case](./Projects/InvisalignCase.md)
